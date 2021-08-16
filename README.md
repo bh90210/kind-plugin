@@ -1,4 +1,8 @@
-# *Kind* Action
+<p align="center">
+  <img width="26%" src="https://user-images.githubusercontent.com/22690219/129509838-810c226a-c9cf-4307-b844-3620d293df0d.png" />
+</p>
+
+# *Kind* Plugin
 
 [![](https://github.com/helm/kind-action/workflows/Test/badge.svg?branch=main)](https://github.com/helm/kind-action/actions)
 
